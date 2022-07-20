@@ -1,0 +1,64 @@
+.photos{
+width: 300px;
+border-radius: 50px;
+
+}
+
+.angel{
+width: 300px;
+border-radius: 50px;
+
+}
+
+.carla{
+width: 300px;
+border-radius: 50px;
+margin-right: 100px;
+margin-left: 100px;
+}
+
+.nina{
+width: 300px;
+border-radius: 50px;
+}
+
+#photos{
+text-align: center;
+}
+
+a {
+color: black;
+text-decoration: none;
+font-size: 30px;
+}
+
+c {
+color: black;
+text-decoration: none;
+font-size: 30px;
+margin-right: 140px;
+margin-left: 140px;
+}
+
+n {
+color: black;
+text-decoration: none;
+font-size: 30px;
+}
+
+#btn{
+text-align: center;
+}
+
+body {
+background-color: blue;
+}
+
+
+
+
+
+
+
+
+

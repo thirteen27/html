@@ -1,0 +1,64 @@
+body{
+background-color: blue;
+}
+.img{
+display: block;
+width: 400px;
+border-radius: 50px;
+float: left;
+margin-right:100px;
+
+
+}
+hh{
+font-size: 30px;
+}
+
+h1{
+font-size: 20px;
+padding-top: 100px;
+}
+
+h2{
+font-size: 20px;
+}
+
+h3{
+font-size: 20px;
+}
+
+h4{
+font-size: 20px;
+}
+
+div#top{
+padding-bottom:170px;
+
+}
+
+#btn{
+
+}
+
+.back{
+color: black;
+text-decoration: none;
+font-size: 50px;
+margin-left: 5%;
+}
+
+.home{
+color: black;
+text-decoration: none;
+font-size: 50px;
+margin-left: 30%;
+margin-right: 30%;
+}
+
+.link{
+color: black;
+text-decoration: none;
+font-size: 50px;
+float:right;
+margin-right: 5%;
+}
