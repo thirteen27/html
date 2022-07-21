@@ -1,5 +1,5 @@
 body{
-background-color: blue;
+background-color: Maroon;
 }
 .img{
 display: block;
@@ -41,14 +41,14 @@ padding-bottom:170px;
 }
 
 .back{
-color: black;
+color: white;
 text-decoration: none;
 font-size: 50px;
 margin-left: 5%;
 }
 
 .home{
-color: black;
+color: white;
 text-decoration: none;
 font-size: 50px;
 margin-left: 30%;
@@ -56,9 +56,9 @@ margin-right: 30%;
 }
 
 .link{
-color: black;
+color: white;
 text-decoration: none;
 font-size: 50px;
-float:right;
+float: right;
 margin-right: 5%;
 }

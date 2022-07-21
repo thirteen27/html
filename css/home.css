@@ -1,4 +1,4 @@
-.photos{
+=.photos{
 width: 300px;
 border-radius: 50px;
 
@@ -27,21 +27,21 @@ text-align: center;
 }
 
 a {
-color: black;
+color: white;
 text-decoration: none;
 font-size: 30px;
 }
 
 c {
-color: black;
+color: white;
 text-decoration: none;
 font-size: 30px;
-margin-right: 140px;
-margin-left: 140px;
+margin-right: 200px;
+margin-left: 200px;
 }
 
 n {
-color: black;
+color: white;
 text-decoration: none;
 font-size: 30px;
 }
@@ -51,7 +51,7 @@ text-align: center;
 }
 
 body {
-background-color: blue;
+background-color: Maroon;
 }
 
 

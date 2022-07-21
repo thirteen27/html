@@ -1,6 +1,36 @@
-.carla{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 500px;
+
+body{
+background-color: Maroon;
 }
+
+.carla{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+border-radius: 50%;
+}
+
+.back{
+color: white;
+text-decoration: none;
+font-size: 50px;
+margin-left: 5%;
+}
+
+.information{
+color: white;
+text-decoration: none;
+font-size: 50px;
+margin-left: 30%;
+margin-right: 30%;
+}
+
+.next{
+color: white;
+text-decoration: none;
+font-size: 50px;
+float: right;
+margin-right: 5%;
+}
+
